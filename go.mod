@@ -16,8 +16,6 @@ require (
 
 	github.com/lib/pq v1.12.3
 
-	github.com/rs/cors v1.11.1
-
 	golang.org/x/crypto v0.50.0
 
 )
